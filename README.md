@@ -1,5 +1,5 @@
 # **Portfólio - Lucas Antonio Gomes**
-** https://lucasantgomes.github.io/lucasantgomes/#sobre-mim**
+** https://lucasantgomes.github.io/lucasantgomes/
 
 Bem-vindo ao meu portfólio! Aqui apresento minha trajetória, habilidades e projetos desenvolvidos durante minha formação em Engenharia de Software e experiência profissional. Este espaço é dedicado à minha evolução como desenvolvedor e à minha paixão por tecnologia.
 
